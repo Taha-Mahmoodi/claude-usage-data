@@ -12,3 +12,13 @@ Written by a Claude Code `Stop` hook on each device. **Never contains prompt or 
 ```
 
 Each device only ever writes its own file, so concurrent pushes never conflict.
+
+## Install the collector (per device)
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/Taha-Mahmoodi/claude-usage-data/main/install.sh | bash
+```
+
+Installs a Claude Code `Stop` hook that records usage metadata and pushes it here.
+`git push` from the local clone must work (`gh auth login`, SSH key, or a write PAT).
+Source of the collector: [`plugin/`](https://github.com/Taha-Mahmoodi/claude-usage-dashboard/tree/dev/plugin) in the dashboard repo.
