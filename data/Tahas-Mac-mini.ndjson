@@ -32,3 +32,4 @@
 {"ts":"2026-07-03T14:08:49.463Z","model":"claude-haiku-4-5-20251001","input_tokens":10,"output_tokens":490,"cache_creation_tokens":96,"cache_read_tokens":42716,"tool_calls":1,"session_id":"dd2d19a7-275a-41ba-8730-beb4679fee9d"}
 {"ts":"2026-07-03T14:11:30.733Z","model":"claude-haiku-4-5-20251001","input_tokens":8,"output_tokens":457,"cache_creation_tokens":403,"cache_read_tokens":44295,"tool_calls":1,"session_id":"dd2d19a7-275a-41ba-8730-beb4679fee9d"}
 {"ts":"2026-07-03T14:18:47.654Z","model":"claude-haiku-4-5-20251001","input_tokens":8,"output_tokens":468,"cache_creation_tokens":390,"cache_read_tokens":47051,"tool_calls":1,"session_id":"dd2d19a7-275a-41ba-8730-beb4679fee9d"}
+{"ts":"2026-07-03T14:26:50.842Z","model":"claude-fable-5","input_tokens":2,"output_tokens":325,"cache_creation_tokens":145,"cache_read_tokens":63334,"tool_calls":1,"session_id":"dd2d19a7-275a-41ba-8730-beb4679fee9d"}
