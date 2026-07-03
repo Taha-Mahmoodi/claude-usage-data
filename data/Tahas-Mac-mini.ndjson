@@ -53,3 +53,4 @@
 {"ts":"2026-07-03T15:50:32.209Z","model":"claude-opus-4-8","input_tokens":131,"output_tokens":746,"cache_creation_tokens":1112,"cache_read_tokens":161147,"tool_calls":1,"session_id":"d5bee23e-d15a-41c3-af64-47b64970c09c"}
 {"ts":"2026-07-03T15:52:54.377Z","model":"claude-opus-4-8","input_tokens":2,"output_tokens":350,"cache_creation_tokens":547,"cache_read_tokens":163225,"tool_calls":0,"session_id":"d5bee23e-d15a-41c3-af64-47b64970c09c"}
 {"ts":"2026-07-03T16:26:55.168Z","model":"claude-sonnet-5","input_tokens":2,"output_tokens":1400,"cache_creation_tokens":1507,"cache_read_tokens":368214,"tool_calls":1,"session_id":"71e7adef-7b8c-4f62-ac4c-22876dd1cf76"}
+{"ts":"2026-07-03T17:11:40.787Z","model":"claude-fable-5","input_tokens":2,"output_tokens":396,"cache_creation_tokens":1274,"cache_read_tokens":307389,"tool_calls":1,"session_id":"f6011bc1-b566-4d56-9e65-c8e6e65ddc41"}
