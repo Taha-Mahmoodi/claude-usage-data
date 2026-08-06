@@ -781,3 +781,4 @@
 {"ts":"2026-08-06T08:50:59.606Z","model":"claude-fable-5","input_tokens":2,"output_tokens":377,"cache_creation_tokens":1281,"cache_read_tokens":773138,"tool_calls":1,"session_id":"c7a33960-1c96-4b0c-b15f-02a996414e54"}
 {"ts":"2026-08-06T10:46:21.883Z","model":"claude-fable-5","input_tokens":2,"output_tokens":1791,"cache_creation_tokens":1899,"cache_read_tokens":794377,"tool_calls":1,"session_id":"c7a33960-1c96-4b0c-b15f-02a996414e54"}
 {"ts":"2026-08-06T11:45:15.300Z","model":"claude-fable-5","input_tokens":1,"output_tokens":1910,"cache_creation_tokens":4140,"cache_read_tokens":798756,"tool_calls":1,"session_id":"c7a33960-1c96-4b0c-b15f-02a996414e54"}
+{"ts":"2026-08-06T11:51:30.413Z","model":"claude-fable-5","input_tokens":2,"output_tokens":607,"cache_creation_tokens":1812,"cache_read_tokens":805806,"tool_calls":1,"session_id":"c7a33960-1c96-4b0c-b15f-02a996414e54"}
