@@ -770,3 +770,7 @@
 {"ts":"2026-08-05T14:15:31.340Z","model":"claude-sonnet-5","input_tokens":2,"output_tokens":298,"cache_creation_tokens":510,"cache_read_tokens":111899,"tool_calls":1,"session_id":"e72fc2d7-fdb0-4953-9b00-81a8108df4ea"}
 {"ts":"2026-08-06T07:01:46.584Z","model":"claude-haiku-4-5-20251001","input_tokens":10,"output_tokens":308,"cache_creation_tokens":40966,"cache_read_tokens":0,"tool_calls":0,"session_id":"ac25399b-a3c8-4614-a7fe-e1a44fa39a13"}
 {"ts":"2026-08-06T07:03:43.423Z","model":"claude-haiku-4-5-20251001","input_tokens":10,"output_tokens":318,"cache_creation_tokens":387,"cache_read_tokens":40966,"tool_calls":0,"session_id":"ac25399b-a3c8-4614-a7fe-e1a44fa39a13"}
+{"ts":"2026-08-06T07:04:11.582Z","model":"claude-sonnet-5","input_tokens":2,"output_tokens":350,"cache_creation_tokens":1694,"cache_read_tokens":363655,"tool_calls":1,"session_id":"6a654087-3e13-4cf5-b209-c22d5852a63b"}
+{"ts":"2026-08-06T07:04:45.676Z","model":"claude-haiku-4-5-20251001","input_tokens":10,"output_tokens":303,"cache_creation_tokens":476,"cache_read_tokens":41353,"tool_calls":0,"session_id":"ac25399b-a3c8-4614-a7fe-e1a44fa39a13"}
+{"ts":"2026-08-06T07:06:53.107Z","model":"claude-fable-5","input_tokens":2,"output_tokens":332,"cache_creation_tokens":1053,"cache_read_tokens":728783,"tool_calls":1,"session_id":"c7a33960-1c96-4b0c-b15f-02a996414e54"}
+{"ts":"2026-08-06T07:11:00.871Z","model":"claude-sonnet-5","input_tokens":2,"output_tokens":574,"cache_creation_tokens":1670,"cache_read_tokens":368024,"tool_calls":1,"session_id":"6a654087-3e13-4cf5-b209-c22d5852a63b"}
