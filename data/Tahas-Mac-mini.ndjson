@@ -1049,3 +1049,6 @@
 {"ts":"2026-08-17T12:05:48.944Z","model":"claude-opus-5","input_tokens":2,"output_tokens":209,"cache_creation_tokens":2030,"cache_read_tokens":479058,"tool_calls":1,"session_id":"334f9267-485c-4c3b-8ff1-c57b66920821"}
 {"ts":"2026-08-17T12:39:51.330Z","model":"claude-fable-5","input_tokens":2,"output_tokens":278,"cache_creation_tokens":367,"cache_read_tokens":65507,"tool_calls":1,"session_id":"78212480-46f2-486c-9aa2-b30f8aa10b7c"}
 {"ts":"2026-08-17T12:50:59.655Z","model":"claude-opus-5","input_tokens":2,"output_tokens":365,"cache_creation_tokens":587,"cache_read_tokens":539728,"tool_calls":1,"session_id":"334f9267-485c-4c3b-8ff1-c57b66920821"}
+{"ts":"2026-08-17T12:52:31.187Z","model":"claude-opus-5","input_tokens":2,"output_tokens":256,"cache_creation_tokens":1666,"cache_read_tokens":423130,"tool_calls":1,"session_id":"cfd7464c-275e-4f18-af7b-fe7da1237e99"}
+{"ts":"2026-08-17T12:54:03.214Z","model":"claude-fable-5","input_tokens":2,"output_tokens":306,"cache_creation_tokens":237,"cache_read_tokens":93014,"tool_calls":1,"session_id":"78212480-46f2-486c-9aa2-b30f8aa10b7c"}
+{"ts":"2026-08-17T13:04:45.341Z","model":"claude-opus-4-8","input_tokens":1,"output_tokens":309,"cache_creation_tokens":778,"cache_read_tokens":622668,"tool_calls":0,"session_id":"be5a9ab2-f734-47ed-9e55-4be701290653"}
